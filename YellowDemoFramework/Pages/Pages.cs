@@ -1,7 +1,7 @@
-﻿using BATDemoFramework;
+﻿using YellowDemoFramework;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace BATDemoFramework
+namespace YellowDemoFramework
 {
     public static class Pages
     {
