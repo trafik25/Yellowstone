@@ -1,7 +1,7 @@
-﻿using BATDemoFramework.Generators;
+﻿using YellowDemoFramework.Generators;
 using NUnit.Framework;
 
-namespace BATDemoFramework
+namespace YellowDemoFramework
 {
     [TestFixture]
     public class TestBase
