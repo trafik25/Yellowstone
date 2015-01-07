@@ -1,4 +1,4 @@
-namespace BATDemoFramework.Generators
+namespace YellowDemoFramework.Generators
 {
     public static class PasswordGenerator
     {
