@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
 
-namespace BATDemoFramework
+namespace YellowDemoFramework
 {
     public static class Extensions
     {
