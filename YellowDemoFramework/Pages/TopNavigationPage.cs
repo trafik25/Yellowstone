@@ -1,8 +1,8 @@
-﻿using BATDemoFramework.Generators;
+﻿using YellowDemoFramework.Generators;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace BATDemoFramework
+namespace YellowDemoFramework
 {
     public class TopNavigationPage
     {
