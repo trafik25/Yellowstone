@@ -1,7 +1,7 @@
-﻿using BATDemoFramework;
+﻿using YellowDemoFramework;
 using NUnit.Framework;
 
-namespace BATDemoTests
+namespace YellowDemoTests
 {
     [TestFixture]
     public class SmokeTests : TestBase
